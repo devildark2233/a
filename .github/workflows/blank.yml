@@ -1,5 +1,5 @@
 
-name: CI
+name: DL
 
 on: [push, workflow_dispatch]
 
